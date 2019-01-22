@@ -50,13 +50,22 @@ h1 {
     color: inherit;
   }
 }
-
 h2 {
-  font-size: 24px;
+  font-size: 30px;
+  background: url(https://chomado.com/wp-content/uploads/2018/08/h1h.png) no-repeat;
+  margin: 0 0 15px -20px;
+  padding-left: 65px;
+  line-height: 50pt;
+  text-shadow: 2px 2px 0 #f2e5e5;
 }
-
 h3 {
-  font-size: 20px;
+  font-size: 25px;
+  background: url(https://chomado.com/wp-content/uploads/2018/08/h3c.png) no-repeat;
+  margin: 20px 0 5px -20px;
+  padding-left: 20px;
+  line-height: 30pt;
+  font-size: 26px;
+  font-weight: normal;
 }
 
 h4 {
