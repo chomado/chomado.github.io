@@ -78,6 +78,6 @@ Jekyll Now とは、Jekyll(ジキル) の拡張版のようなものです。
 
 ![](https://github.com/chomado/chomado.github.io/raw/master/images/first-post.png)
 
-他のブログ記事を投稿するのも、このフォルダに新しい .md ファイルを追加するだけでオーケーです。
+他のブログ記事を投稿するのも、このフォルダに新しい .md ファイルを `yyyy-MM-dd-記事タイトル.md` というファイル名のフォーマットで追加するだけでオーケーです。
 
 ちょまど
