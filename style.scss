@@ -52,6 +52,14 @@ h1 {
     color: inherit;
   }
 }
+
+.post h1 {
+  font-size: 30px;
+  background-color: #f4d8cf;
+  margin: 0 0 0px -20px;
+  padding: 5px 0 5px 10px;
+}
+
 h2 {
   font-size: 30px;
   background: url(https://chomado.com/wp-content/uploads/2018/08/h1h.png) no-repeat;
@@ -77,6 +85,8 @@ h4 {
 
 p {
   margin: 15px 0;
+  line-height: 200%;
+
 }
 
 a {
@@ -264,12 +274,12 @@ nav {
 
 .post {
   blockquote {
-    margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
+    position: relative;
+    margin: 0 auto 1.5rem;
+    padding: 1.6rem 2rem;
+    font-size: 1.5rem;
+    color: #fff;
+    background-color: #555;
   }
 
   .comments {
