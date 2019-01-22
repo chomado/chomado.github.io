@@ -79,4 +79,9 @@ Jekyll Now とは、Jekyll(ジキル) の拡張版のようなものです。
 
 他のブログ記事を投稿するのも、このフォルダに新しい .md ファイルを `yyyy-MM-dd-記事タイトル.md` というファイル名のフォーマットで追加するだけでオーケーです。
 
+
+## For more information
+
+<a href="https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/" target="_blank">Build A Blog With Jekyll And GitHub Pages</a>
+
 ちょまど
