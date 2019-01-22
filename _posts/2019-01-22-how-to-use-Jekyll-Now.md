@@ -4,6 +4,10 @@ title: このサイトは Jekyll Now で作りました
 ---
 自分の GitHub Pages (chomado.github.io のページ)を、マークダウンで記事を書けて、かつ git push で記事更新できるようにしたい、と色々調べたら、Jekyll Now という簡単なフレームワークに巡り合ったので、そのセットアップの方法をここに書いておきます。
 
+ちなみに、この記事はこれです。このマークダウンのファイルを git push したらこの web ページがジェネレートされた感じ
+
+[https://github.com/chomado/chomado.github.io/blob/master/_posts/2019-01-22-how-to-use-Jekyll-Now.md](https://github.com/chomado/chomado.github.io/blob/master/_posts/2019-01-22-how-to-use-Jekyll-Now.md)
+
 ## GitHub Pages とは
 
 GitHub が提供するホスティングサービスで、無料で Web ページを公開できる、いけてるサービスです。
