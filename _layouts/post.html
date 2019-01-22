@@ -9,6 +9,11 @@ layout: default
     {{ content }}
   </div>
 
+  <div class="entry">
+    {{ content }} 
+    {% include share_bar.html %}
+  </div>
+
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>

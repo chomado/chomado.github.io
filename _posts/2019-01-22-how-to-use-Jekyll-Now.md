@@ -83,6 +83,11 @@ Jekyll Now とは、Jekyll(ジキル) の拡張版のようなものです。
 
 他のブログ記事を投稿するのも、このフォルダに新しい .md ファイルを `yyyy-MM-dd-記事タイトル.md` というファイル名のフォーマットで追加するだけでオーケーです。
 
+### Step 04: デザイン微調整
+
+ルートに入っている `style.scss` を微調整しました。私はピンクとハートが好きなので、背景色をピンクにしたり、 h3 要素をピンクなハートにしました
+
+[https://github.com/chomado/chomado.github.io/blob/master/style.scss](https://github.com/chomado/chomado.github.io/blob/master/style.scss)
 
 ## For more information
 
